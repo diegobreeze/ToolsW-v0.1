@@ -3,23 +3,23 @@
 
 # ¿Qué contiene esta herramienta?
 Este script contiene varias utilidades, las cuales son:
--  Herramientas del sistema.
--  Herramientas de redes.
--  Herramientas de carpetas y archivos.
--  Herramientas para discos y volumenes.
--  Terminal personalizada.
--  Manual del script.
+-  ➖ Herramientas del sistema.
+-  ➖Herramientas de redes.
+-  ➖ Herramientas de carpetas y archivos.
+-  ➖ Herramientas para discos y volumenes.
+-  ➖ Terminal personalizada.
+-  ➖ Manual del script.
 [![menu.png](https://i.postimg.cc/BbgZxTzs/menu.png)](https://postimg.cc/ZvWhmdZD)
 
 # ¿En qué versión se encuentra este script?
-- Actualmente se encuentra en la versión 0.1, todavía se encuentra en desarollo.
+- ➖Actualmente se encuentra en la versión 0.1, todavía se encuentra en desarollo.
 
 # ¿Quienes desarollaron este script?
-- Los desarolladores de este script son: Diego Breeze y Joaquín Verde.
+-➖ Los desarolladores de este script son: Diego Breeze y Joaquín Verde.
 
 # Idioma oficial:
-- 🇪🇸 El idioma oficial de este script es el español
-- 🇺🇸 En futuras actualizaciones habrán más idiomas disponibles.
+- ➖ 🇪🇸 El idioma oficial de este script es el español
+- ➖ 🇺🇸 En futuras actualizaciones habrán más idiomas disponibles.
 
 # Herramientas del sistema:
 Dentro de las herramientas del sistema se encuentran:
@@ -64,4 +64,4 @@ La terminal personalizada solo tiene dos comandos los cuales fueron creados desd
 - ➖ ver o v
 [![terminal.png](https://i.postimg.cc/sf92dzg8/terminal.png)](https://postimg.cc/Lh5SLrfB)
 
-Se puede ver el funcionamiento de estos comandos en la guía del script.
+➖ Se puede ver el funcionamiento de estos comandos en la guía del script.
