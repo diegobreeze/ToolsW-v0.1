@@ -15,7 +15,7 @@ Este script contiene varias utilidades, las cuales son:
 - ➖Actualmente se encuentra en la versión 0.1, todavía se encuentra en desarollo.
 
 # ¿Quienes desarollaron este script?
--➖ Los desarolladores de este script son: Diego Breeze y Joaquín Verde.
+- ➖ Los desarolladores de este script son: Diego Breeze y Joaquín Verde.
 
 # Idioma oficial:
 - ➖ 🇪🇸 El idioma oficial de este script es el español
