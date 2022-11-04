@@ -1,5 +1,5 @@
 # ¿Qué es ToolsW?
-- 💻 ToolsW (Tools Windows) es una herramienta de libre uso y código abierto para aquellos que deseen utilizar herramientas de Windows a través de atajos muy sencillos y rápidos.
+- ToolsW (Tools Windows) es una herramienta de libre uso y código abierto para aquellos que deseen utilizar herramientas de Windows a través de atajos muy sencillos y rápidos.
 
 # ¿Qué contiene esta herramienta?
 Este script contiene varias utilidades, las cuales son:
