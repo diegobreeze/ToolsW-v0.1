@@ -3,19 +3,19 @@
 
 # ¿Qué contiene esta herramienta?
 Este script contiene varias utilidades, las cuales son:
-- 🔨 Herramientas del sistema.
-- 🌎 Herramientas de redes.
-- 📂Herramientas de carpetas y archivos.
-- 💿 Herramientas para discos y volumenes.
-- ⌨ Terminal personalizada.
-- 📜 Manual del script.
+-  Herramientas del sistema.
+-  Herramientas de redes.
+-  Herramientas de carpetas y archivos.
+-  Herramientas para discos y volumenes.
+-  Terminal personalizada.
+-  Manual del script.
 [![menu.png](https://i.postimg.cc/BbgZxTzs/menu.png)](https://postimg.cc/ZvWhmdZD)
 
 # ¿En qué versión se encuentra este script?
-- ❓ Actualmente se encuentra en la versión 0.1, todavía se encuentra en desarollo.
+- Actualmente se encuentra en la versión 0.1, todavía se encuentra en desarollo.
 
 # ¿Quienes desarollaron este script?
-- 🧬 Los desarolladores de este script son: Diego Breeze y Joaquín Verde.
+- Los desarolladores de este script son: Diego Breeze y Joaquín Verde.
 
 # Idioma oficial:
 - 🇪🇸 El idioma oficial de este script es el español
